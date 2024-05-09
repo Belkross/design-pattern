@@ -1,0 +1,10 @@
+{
+	"devDependencies": {
+		"commitlint": "^19.3.0",
+		"@belkross/commitlint-config": "^1.0.3",
+		"husky": "^9.0.11"
+	},
+	"scripts": {
+		"prepare": "husky"
+	}
+}
